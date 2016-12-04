@@ -1,0 +1,1 @@
+# dependencias concretas (se instalan con pip
